@@ -508,7 +508,7 @@
   {
   "name": "Zoom",
   "icon": "file:///C:/Users/Edgardo/Downloads/zoom-icon.png",
-  "type": "app", //
+  "type": "app",
   "data": {
     "type": "IFrame",
     "url": "https://classic.minecraft.net",
