@@ -506,3 +506,19 @@
     }
   }
 ]
+{
+  "name": "Zoom"
+  "icon": "file:///C:/Users/Edgardo/Downloads/zoom-icon.png"
+  "type": "app",
+  "data": {
+    "type": "IFrame",
+    "url": "https://zoom.us"
+    "gallery": [
+    "https://www.technology.pitt.edu/sites/default/files/blog-images/ZoomMeeting.png",
+    "https://i.pcmag.com/imagery/articles/02yCqXvmqce9tLOBN0IwP5F-6..v1585063653.jpg",
+    "https://media.istockphoto.com/photos/laptop-with-screen-video-conference-on-kitchen-counter-with-smart-picture-id1306856723?b=1&k=20&m=1306856723&s=170667a&w=0&h=GxXX3skgJbRtO3sG9k4A0dLT0zp2XdKNMMxrFDmp8sc=",
+    ],
+    "desc": "Stay connected wherever you go – start or join a secure meeting with flawless video and audio, instant screen sharing, and cross-platform instant messaging - for free!",
+    "feat": "Redesigned Website,New Join A Meeting without sign in And Zoom Contact Center.",
+  }
+}
