@@ -506,8 +506,8 @@
     }
   },
   {
-  "name": "Zoom", // unique name (check if it has been used already in the file)
-  "icon": "file:///C:/Users/Edgardo/Downloads/zoom-icon.png", //
+  "name": "Zoom",
+  "icon": "file:///C:/Users/Edgardo/Downloads/zoom-icon.png",
   "type": "app", //
   "data": {
     "type": "IFrame",
